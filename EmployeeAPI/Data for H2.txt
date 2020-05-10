@@ -1,0 +1,5 @@
+insert into emp_model values(101,'India','deep@mail.com','Deepshikha Roy');
+insert into emp_model values(102,'India','faisal@mail.com','Faisal Khan');
+insert into emp_model values(103,'India','sumayya@mail.com','Sumayya Rasheed');
+insert into emp_model values(104,'India','nakul@mail.com','Nakul Parashar');
+
